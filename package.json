@@ -1,6 +1,6 @@
 {
   "name": "clean-quotes",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "✍️ Normalize quotes, dashes, and ellipsis in strings.",
   "main": "index.js",
   "module": "index.js",
@@ -20,15 +20,18 @@
   "keywords": [
     "normalize",
     "string-normalization",
+    "unicode-normalization",
     "sanitize",
     "typography",
     "smart-quotes",
+    "copy-paste-fix",
     "punctuation",
     "clean-text",
     "whitespace",
     "regex",
     "text-processing",
-    "utility"
+    "utility",
+    "i18n-punctuation"
   ],
   "author": "tuty",
   "license": "MIT",
