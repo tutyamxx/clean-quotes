@@ -1,6 +1,6 @@
 {
   "name": "clean-quotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "✍️ Normalize quotes, dashes, and ellipsis in strings.",
   "main": "index.js",
   "module": "index.js",
