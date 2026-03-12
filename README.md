@@ -8,6 +8,12 @@
 * ✍️ Clean and standardize punctuation in strings — normalize `quotes`, `single quotes`, `dashes`, and `ellipsis` for `multi-language` text, `emojis` and consistent formatting.
 * ♻️ Works seamlessly with `CommonJS`, `ESM` and `TypeScript`
 
+# 🚀 Why use this?
+
+- 👍 Good for validating input fields or textareas.
+- 👍 Sanitizing data before it's saved to a SQL/NoSQL database.
+- 👍 Pre-processing text for Natural Language Processing (NLP) or sentiment analysis, where special characters are often `"noise."`
+
 # 📦 Install via [NPM](https://www.npmjs.com/package/clean-quotes)
 
 ```bash
