@@ -1,0 +1,31 @@
+{
+  "name": "clean-quotes",
+  "version": "1.0.0",
+  "description": "✍️ Normalize quotes, dashes, and ellipsis in strings.",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.js",
+    "types": "./index.d.ts"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutyamxx/clean-quotes.git"
+  },
+  "keywords": [],
+  "author": "tuty",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tutyamxx/clean-quotes/issues"
+  },
+  "homepage": "https://github.com/tutyamxx/clean-quotes#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
