@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
 </p>
 
-* ✍️ Normalize quotes, dashes, and ellipsis in strings.
+* ✍️ Clean and standardize punctuation in strings — normalize `quotes`, `single quotes`, `dashes`, and `ellipsis` for `multi-language` text, `emojis` and consistent formatting.
 * ♻️ Works seamlessly with `CommonJS`, `ESM` and `TypeScript`
 
 # 📦 Install via [NPM](https://www.npmjs.com/package/clean-quotes)
