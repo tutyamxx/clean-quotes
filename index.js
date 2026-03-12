@@ -1,6 +1,6 @@
 /**
  *  clean-quotes - ✍️ Normalize quotes, dashes, and ellipsis in strings.
- *  @version: v1.0.3
+ *  @version: v1.0.4
  *  @link: https://github.com/tutyamxx/clean-quotes
  *  @license: MIT
  **/
