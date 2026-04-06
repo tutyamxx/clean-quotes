@@ -6,7 +6,7 @@ const collapseSpaces = /[\s\u00A0\u202F]+/g;
 
 /**
  *  clean-quotes - ✍️ Normalize quotes, dashes, and ellipsis in strings.
- *  @version: v1.0.6
+ *  @version: v1.0.7
  *  @link: https://github.com/tutyamxx/clean-quotes
  *  @license: MIT
  **/
